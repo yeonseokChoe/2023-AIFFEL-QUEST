@@ -18,4 +18,7 @@
 [Apple Vision Pro를 위한 공간 경험 설계를 지원하는 개발자 툴, 오늘부터 이용 가능](https://www.apple.com/kr/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/)
 
 댓글
+
+예전에 구글이었나 어디서 비슷한거 나올땐 화냈던거 같은데 애플이.. - 김민식/알트만
+
 비전프로 너무 비싸요. 안팔릴듯 - 박근수/알트만
