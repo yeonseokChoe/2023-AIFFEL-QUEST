@@ -1,4 +1,4 @@
-# AIFFEL Campus Online 5th Code Peer Review Templete
+# AIFFEL Campus Online 5th Code Peer Review Template
 - 코더 : 조준규
 - 리뷰어 : [이태훈](https://github.com/git-ThLee)
 
