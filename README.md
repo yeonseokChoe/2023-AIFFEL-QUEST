@@ -1,7 +1,3 @@
-# 2023 AIFFEL Online 5th
+# 2023 AIFFEL Online 5th QUEST Repo
 
-AIFFEL QUEST Archiving
-
-만나서 반갑습니다 .잘부탁드려요. 
-
-새로 추가!
+모두의연구소 아이펠 온라인 5기에서 진행하는 quest를 모아두는 repository  
