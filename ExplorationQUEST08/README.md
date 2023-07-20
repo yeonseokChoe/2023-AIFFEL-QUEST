@@ -19,19 +19,19 @@
 
 # 예시
 ### loss accuracy 확인
-'''
+```python
 plt.plot(history.history['loss'], label='train')
 plt.plot(history.history['accuracy'], label='test')
 plt.legend()
 plt.show()
-'''
+```
 
 ### 챗봇 테스트하기
-'''
+```python
 print(*sentence_generation('누구세요?'), sep='\n')
 입력 : 누구세요?
 출력 : 저는 위로해드리는 로봇이에요 .
-'''
+```
 
 ### 모델 성능 평가까지 이루어져 구축한 모델에 대한 신뢰도를 얻을 수 있었습니다.
 
