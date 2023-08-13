@@ -2,7 +2,7 @@
 
 딥러닝 한 번에 끝내기 모듈 프로젝트 모음
 
-`Project 1`(https://github.com/wnsk0427/2023-AIFFEL-QUEST/blob/master/OneShotQUEST/Project1.ipynb)
+[`Project 1`](https://github.com/wnsk0427/2023-AIFFEL-QUEST/blob/master/OneShotQUEST/Project1.ipynb)
 - Boston 주택 가격 예측 프로젝트 [[🔗]]
 
 `Project 2`
