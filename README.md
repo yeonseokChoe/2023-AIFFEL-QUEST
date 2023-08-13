@@ -15,6 +15,14 @@
 |  7  | 난 스케치를 할 테니 너는 채색을 하거라 | Conditional GAN | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/ExplorationQUEST07) |
 |  8  | 트랜스포머로 만드는 대화형 챗봇 | Transformer | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/ExplorationQUEST08) |
 
+## In-Depth Deep Learning
+
+## Going Deeper QUEST
+
+| No. | Project | Task | Link |
+|:---:|:-------:|:----:|:----:|
+|  1  |  |  | [🔗]() |
+
 ## Main QUEST
 
 | No. | Project | Link |
