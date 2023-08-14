@@ -15,15 +15,33 @@
 |  7  | 난 스케치를 할 테니 너는 채색을 하거라 | Conditional GAN | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/ExplorationQUEST07) |
 |  8  | 트랜스포머로 만드는 대화형 챗봇 | Transformer | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/ExplorationQUEST08) |
 
-## In-Depth Deep Learning
+## One-Shot & In-Depth Deep Learning
 
+[`딥러닝 한 번에 끝내기`](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/OneShotQUEST) & 
 [`케라스 창시자에게 배우는 딥러닝 개정 2판`](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/InDepthDeepLearning)
 
 ## Going Deeper QUEST
 
 | No. | Project | Task | Link |
 |:---:|:-------:|:----:|:----:|
-|  1  |         |      | [🔗]() |
+| 1-1 | 백본 네트워크 구조 상세분석	|  | [🔗]()
+| 1-2	| 없다면 어떻게 될까? (ResNet Ablation Study) |  | [🔗]()
+| 2-1	| 잘 만든 Augmentation, 이미지 100장 안 부럽다 |  | [🔗]()
+| 2-2	| Augmentation |  | [🔗]()
+| 3-1	| 너의 속이 궁금해 - Class Activation Map 살펴보기 |  | [🔗]()
+| 3-2	| 나를 찾아줘 - Class Activation Map 만들기 |  | [🔗]()
+| 4-1	| Object Detection |  | [🔗]()
+| 4-2	| GO/STOP! - Object Detection 시스템 만들기 |  | [🔗]()
+| 5-1	| 물체를 분리하자! - 세그멘테이션 살펴보기 |  | [🔗]()
+| 5-2	| 도로 영역을 찾자! - 세그멘테이션 모델 만들기 |  | [🔗]()
+| 6-1 | OCR 기술의 개요 |  | [🔗]()
+| 6-2	| 직접 만들어보는 OCR |  | [🔗]()
+| 7-1	| 멀리 있지만 괜찮아 |  | [🔗]()
+| 7-2	| 멀리 있는 사람도 스티커를 붙여주자 |  | [🔗]()
+| 8-1	| 사람의 몸짓을 읽어보자 |  | [🔗]()
+| 8-2	| 행동 스티커 만들기 |  | [🔗]()
+| 9-1	| CV 최신 트렌드 |  | [🔗]()
+| 9-2	| CV 최신 트렌드 |  | [🔗]()
 
 ## Main QUEST
 
