@@ -24,11 +24,9 @@
 
 | No. | Project | Task | Link |
 |:---:|:-------:|:----:|:----:|
-| 1-1 | 백본 네트워크 구조 상세분석	|  | [🔗]()
+|  1  | 없다면 어떻게 될까? | ResNet Ablation Study | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST01)
+|  2 	| 이미지 어디까지 우려볼까? | Data Augmentation | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST02)
 <!--
-| 1-2	| 없다면 어떻게 될까? (ResNet Ablation Study) |  | [🔗]()
-| 2-1	| 잘 만든 Augmentation, 이미지 100장 안 부럽다 |  | [🔗]()
-| 2-2	| Augmentation |  | [🔗]()
 | 3-1	| 너의 속이 궁금해 - Class Activation Map 살펴보기 |  | [🔗]()
 | 3-2	| 나를 찾아줘 - Class Activation Map 만들기 |  | [🔗]()
 | 4-1	| Object Detection |  | [🔗]()
@@ -50,3 +48,4 @@
 | No. | Project | Link |
 |:---:|:-------:|:----:|
 |  1  | 폐렴아 기다려라! | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/MainQUEST01) |
+|  2  | PASCAL VOC 2012 | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/MainQUEST02) |
