@@ -26,9 +26,8 @@
 |:---:|:-------:|:----:|:----:|
 |  1  | 없다면 어떻게 될까? | ResNet Ablation Study | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST01)
 |  2 	| 이미지 어디까지 우려볼까? | Data Augmentation | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST02)
+|  3	| 나를 찾아줘 - Class Activation Map 만들기 | Class Activation Map | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST03)
 <!--
-| 3-1	| 너의 속이 궁금해 - Class Activation Map 살펴보기 |  | [🔗]()
-| 3-2	| 나를 찾아줘 - Class Activation Map 만들기 |  | [🔗]()
 | 4-1	| Object Detection |  | [🔗]()
 | 4-2	| GO/STOP! - Object Detection 시스템 만들기 |  | [🔗]()
 | 5-1	| 물체를 분리하자! - 세그멘테이션 살펴보기 |  | [🔗]()
