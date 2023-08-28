@@ -27,11 +27,9 @@
 |  1  | 없다면 어떻게 될까? | ResNet Ablation Study | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST01)
 |  2 	| 이미지 어디까지 우려볼까? | Data Augmentation | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST02)
 |  3	| 나를 찾아줘 - Class Activation Map 만들기 | Class Activation Map | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST03)
+|  4	| GO/STOP! - Object Detection 시스템 만들기 | Object Detection | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST04)
+|  5	| 도로 영역을 찾자! - 세그멘테이션 모델 만들기 | Sementic Segmentation | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST05)
 <!--
-| 4-1	| Object Detection |  | [🔗]()
-| 4-2	| GO/STOP! - Object Detection 시스템 만들기 |  | [🔗]()
-| 5-1	| 물체를 분리하자! - 세그멘테이션 살펴보기 |  | [🔗]()
-| 5-2	| 도로 영역을 찾자! - 세그멘테이션 모델 만들기 |  | [🔗]()
 | 6-1 | OCR 기술의 개요 |  | [🔗]()
 | 6-2	| 직접 만들어보는 OCR |  | [🔗]()
 | 7-1	| 멀리 있지만 괜찮아 |  | [🔗]()
