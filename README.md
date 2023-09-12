@@ -1,6 +1,6 @@
-# 2023 AIFFEL Online 5th QUEST Repo
+# 2023 AIFFEL Online 5th Research QUEST
 
-모두의연구소 아이펠 온라인 5기에서 진행하는 quest를 모아두는 repository  
+**모두의연구소 아이펠 온라인 5기 리서치 quest repository**
 
 ## Exploration QUEST
 
@@ -29,15 +29,11 @@
 |  3	| 나를 찾아줘 - Class Activation Map 만들기 | Class Activation Map | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST03)
 |  4	| GO/STOP! - Object Detection 시스템 만들기 | Object Detection | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST04)
 |  5	| 도로 영역을 찾자! - 세그멘테이션 모델 만들기 | Sementic Segmentation | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST05)
+|  6	| 직접 만들어보는 OCR | Optical Character Recognition | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST06)
 <!--
-| 6-1 | OCR 기술의 개요 |  | [🔗]()
-| 6-2	| 직접 만들어보는 OCR |  | [🔗]()
-| 7-1	| 멀리 있지만 괜찮아 |  | [🔗]()
-| 7-2	| 멀리 있는 사람도 스티커를 붙여주자 |  | [🔗]()
-| 8-1	| 사람의 몸짓을 읽어보자 |  | [🔗]()
-| 8-2	| 행동 스티커 만들기 |  | [🔗]()
-| 9-1	| CV 최신 트렌드 |  | [🔗]()
-| 9-2	| CV 최신 트렌드 |  | [🔗]()
+|  7	| 멀리 있는 사람도 스티커를 붙여주자 |  | [🔗]()
+|  8	| 행동 스티커 만들기 |  | [🔗]()
+|  9	| CV 최신 트렌드 |  | [🔗]()
 -->
 
 ## Main QUEST
