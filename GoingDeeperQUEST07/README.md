@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 5th Code Peer Review Template
 - 코더 : 조준규
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 리뷰어 : 서희원
 
 
 # PRT(Peer Review Template)
@@ -9,6 +9,7 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
       퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
+    
     |평가문항|상세기준|
     |---|---|    
     |1. multiface detection을 위한 widerface 데이터셋의 전처리가 적절히 진행되었다.|tfrecord 생성, augmentation, prior box 생성 등의 과정이 정상적으로 진행되었다.|
